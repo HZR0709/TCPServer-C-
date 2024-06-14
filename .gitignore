@@ -1,0 +1,15 @@
+
+*.vcxproj
+*.vcxproj
+*.filters
+*.user
+*.json
+*.sqlite
+/TCPServer/.vs
+*.db
+*.db-shm
+*.db-wal
+*.opendb
+*.ipch
+*.ipch
+*.filters
